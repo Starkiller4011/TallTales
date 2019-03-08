@@ -1,0 +1,11 @@
+{
+  "intro": "Welcome to Tall Tales!\n\nWe are going to create a tall tale together by mixing\nand matching words together! Who doesn't like a good\nstory right? So without further ado let us begin!\n\n"
+  ,
+  "story": "Story: %s\n\n"
+  ,
+  "prompt": "Can I have %s please"
+  ,
+  "pre_label": "Enter"
+  ,
+  "post_label": "Again!"
+}
